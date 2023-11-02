@@ -2,9 +2,9 @@
 
 ## Decoupling the Communication Layer from the Business Layer in Laravel Demo Project
 
-This project is meant to demostrate the talk I gave in Laravel Kenya forum on 1st of November 2023.
+This project is meant to demonstrate the talk I gave in the Laravel Kenya forum on the 1st of November, 2023.
 
-The talk can be found here: [Watch on YouTube](https://drive.google.com/file/d/1OlDmZ_anlYRmzJyMrOhKDuwnzTLHB0MS/view?usp=drive_link)
+The talk can be found here: [Watch on YouTube](https://youtu.be/7Rkkzb6jTiQ)
 
 ## Associated Resources
 
